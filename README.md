@@ -18,8 +18,8 @@ Buscando a cada dia aperfeiçoar mais meus conhecimentos, desenvolvi este card c
 
 ## Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: (https://github.com/thenrybruno/qr-code)
+- URL do site ativo: (https://thenrybruno.github.io/qr-code/)
 
 ## Construído com
 
